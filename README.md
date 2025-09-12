@@ -7,6 +7,5 @@
 🚀 Currently exploring MERN Stack and Advanced ML projects  
 
 📫 Connect with me:  
-[LinkedIn](https://www.linkedin.com/in/oshitha-garbhapu-278494297/) 
-[Email](mailto:oshithagarbhapu@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/oshitha-garbhapu-278494297/) | [Email](mailto:oshithagarbhapu@gmail.com)
 
