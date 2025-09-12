@@ -5,7 +5,8 @@
 ⚡ Skilled in Python, Java, JavaScript, Node.js, and SQL  
 🧠 Building Machine Learning and AI projects  
 🚀 Currently exploring MERN Stack and Advanced ML projects  
-
+ 
 📫 Connect with me:  
-[LinkedIn](https://www.linkedin.com/in/oshitha-garbhapu-278494297/) | [Email](mailto:oshithagarbhapu@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/oshitha-garbhapu-278494297/) | [Email](https://mail.google.com/mail/?view=cm&fs=1&to=oshithagarbhapu@gmail.com)
+
 
