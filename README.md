@@ -2,7 +2,6 @@
 
 🎓 Final-year CSE student, SRM University AP
 
-
 💻 Focused on Software Development, Data Analytics, and AI
  
 📫 Connect with me:  
