@@ -1,6 +1,6 @@
 👋 Hello! I’m Oshitha Garbhapu
 
-🎓 Final-year CSE student, SRM University AP
+🎓 Final-year CSE student at SRM University, AP
 
 💻 Focused on Software Development, Data Analytics, and AI
  
