@@ -10,7 +10,6 @@ MySQL
 Git • GitHub
 
 ## Reach Me
-[LinkedIn](https://www.linkedin.com/in/oshitha-garbhapu-278494297/) 
-[Email](https://mail.google.com/mail/?view=cm&fs=1&to=oshithagarbhapu@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/oshitha-garbhapu-278494297/) | [Email](https://mail.google.com/mail/?view=cm&fs=1&to=oshithagarbhapu@gmail.com)
 
 
