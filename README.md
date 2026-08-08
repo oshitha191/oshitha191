@@ -7,6 +7,7 @@ I'm interested in Full Stack Development, Data Analytics and Machine Learning.
 • HTML • CSS • JavaScript
 • React • Node.js • Express
 • MySQL 
+• AIML
 • Git • GitHub
 
 
