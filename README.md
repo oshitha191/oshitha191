@@ -15,3 +15,5 @@ I'm interested in Full Stack Development, Data Analytics and Machine Learning.
 [LinkedIn](https://www.linkedin.com/in/oshitha-garbhapu-278494297/) | [Email](https://mail.google.com/mail/?view=cm&fs=1&to=oshithagarbhapu@gmail.com)
 
 
+## Personal Portfolio
+(https://oshitha191.github.io/personal-portfolio/)
